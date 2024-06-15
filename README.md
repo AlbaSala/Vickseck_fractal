@@ -1,2 +1,2 @@
-# Vickseck_fractal
-Vickseck fractal generator using C++
+# Vicsek_fractal
+Vicsek fractal generator using C++
